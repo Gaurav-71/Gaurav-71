@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-71)](https://github.com/Gaurav-71/github-readme-stats)
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-71)](https://github.com/Gaurav-71)
 
 [linkedin]: https://www.linkedin.com/in/gaurav-v-941368194/
