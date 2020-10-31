@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-71&langs_count=10&&hide_border=true)](https://github.com/Gaurav-71)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin:0 0.5rem" src="https://github-profile-trophy.vercel.app/?username=gaurav-71" alt="gaurav-71" /></a> </p>
+<p align="left"> <a href="https://github.com/Gaurav-71"><img src="https://github-profile-trophy.vercel.app/?username=Gaurav-71" alt="gaurav-71" /></a> </p>
 
 [linkedin]: https://www.linkedin.com/in/gaurav-v-941368194/
 [gmail]: mailto:gv71.msrit@gmail.com
