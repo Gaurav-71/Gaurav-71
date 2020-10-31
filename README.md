@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a student and a budding developer !
 
+- 🔭 I’m currently working on multiple projects which involve web development and AI/ML
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -44,13 +45,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Gaurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gaurav-71&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/gaurav-v-941368194/
