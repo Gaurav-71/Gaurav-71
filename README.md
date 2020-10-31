@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-  <img align="left" alt="Gaurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gaurav-71&show_icons=true&hide_border=true" />
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-71)](https://github.com/Gaurav-71/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/gaurav-v-941368194/
