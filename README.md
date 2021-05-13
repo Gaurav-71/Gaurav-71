@@ -13,36 +13,122 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Gaurav V 👋
+# 👨🏻‍💻 &nbsp;About Me
 
-### I'm a student and a budding developer !
+I am Gaurav V an inquisitive learner and a budding developer. My areas of interest include web and mobile development, UI/UX design, software engineering and graphic design.
 
-- 🔭 I’m currently working on multiple projects which involve web development and AI/ML
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
-## Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Ramaiah Institute of Technology\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Photography\
+✉️ &nbsp;You can shoot me an email at gv71.msrit@gmail.com, I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](./Assets/resume.pdf) for more details about me.
 
 <br/>
 
-## Languages and Tools:
+# 🤝🏻 &nbsp;Connect with Me
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin: 0 0.3rem" style="margin: 0 0.3rem"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30" style="margin: 0 0.3rem"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30" style="margin: 0 0.3rem"/> </a> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/gaurav-v-8071/"><img src="https://img.shields.io/badge/-Gaurav V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gv71.msrit@gmail.com"><img src="https://img.shields.io/badge/-gv71.msrit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
+<br/>
 
-<br />
+# 🛠 &nbsp;Technologies & Tools
 
-## Stats 📊
+### Programming Languages
 
-[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-71&hide_border=true&show_icons=true)](https://github.com/Gaurav-71)
+<p>
+<img src="./Assets/c.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/cplusplus.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/java.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/python.svg" width="30px">
+<p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-71&langs_count=10&&hide_border=true)](https://github.com/Gaurav-71)
+### Front-end Technologies
 
-<p align="left"> <a href="https://github.com/Gaurav-71"><img src="https://github-profile-trophy.vercel.app/?username=Gaurav-71" alt="gaurav-71" /></a> </p>
+<p>
+<img src="./Assets/html5.svg" width="42px">
+<img src="./Assets/css.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/javascript.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/sass.svg" width="45px">
+</p>
 
-[linkedin]: https://www.linkedin.com/in/gaurav-v-941368194/
-[gmail]: mailto:gv71.msrit@gmail.com
+### Back-end Technologies
+
+<p>
+<img src="./Assets/nodejs.svg" width="70px" style="margin-right:0.5rem">
+<img src="./Assets/express.jpeg" width="70px" style="margin-right:0.5rem">
+<img src="./Assets/jsp.svg" width="30px" style="margin-right:0.5rem">
+</p>
+
+### Web Frameworks
+
+<p>
+<img src="./Assets/vue.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/react.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/flask.svg" width="70px" style="margin-right:0.5rem; background: white">
+</p>
+
+### UI Frameworks
+
+<p>
+<img src="./Assets/bootstrap.svg" width="35px" style="margin-right:0.5rem">
+<img src="./Assets/vuetify.png" width=45px" style="margin-right:0.5rem">
+<img src="./Assets/material-ui-1.svg" width="45px" style="margin-right:0.5rem">
+</p>
+
+### Databases
+
+<p>
+<img src="./Assets/mysql.svg" width="60px" style="margin-right:0.5rem">
+<img src="./Assets/mongodb.svg" width="100px" style="margin-right:0.5rem">
+<img src="./Assets/firebase.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/sqllite.svg" width="50px" style="margin-right:0.5rem">
+</p>
+
+### Mobile & Desktop Development
+
+<p>
+<img src="./Assets/android.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/kivy-logo-black-256.png" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/pyqt5.png" width="35px" style="margin-right:0.5rem">
+</p>
+
+### Version Control Software
+
+<p>
+<img src="./Assets/github.svg" width="38px" style="margin-right:0.5rem">
+<img src="./Assets/git.svg" width="35px" style="margin-right:0.5rem">
+</p>
+
+### Design & Prototyping
+
+<p>
+<img src="./Assets/photoshop.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/illustrator.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/adobe-xd.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/figma.svg" width="30px" style="margin-right:0.5rem">
+</p>
+
+### Hosting & Deployment
+
+<p>
+<img src="./Assets/firebase.svg" width="35px" style="margin-right:0.5rem">
+<img src="./Assets/cpanel.svg" width="40px" style="margin-right:0.5rem">
+<img src="./Assets/docker.svg" width="35px" style="margin-right:0.5rem">
+<img src="./Assets/heroku.svg" width="35px" style="margin-right:0.5rem">
+<img src="./Assets/github.svg" width="38px" style="margin-right:0.5rem">
+<img src="./Assets/godaddy.svg" width="120px" style="margin-right:0.5rem">
+</p>
+
+<br/>
+
+# ⚙️ &nbsp;GitHub Analytics
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurav-71&show_icons=true&&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaurav-71&&theme=algolia&layout=compact&langs_count=20" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gaurav-71&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
