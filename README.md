@@ -21,7 +21,7 @@ I am Gaurav V an inquisitive learner and a budding developer. My areas of intere
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Ramaiah Institute of Technology\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Photography\
 ✉️ &nbsp;You can shoot me an email at gv71.msrit@gmail.com, I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](./Assets/resume.pdf) for more details about me.
+📄 &nbsp;Please have a look at my [Resume](./Assets/resume.pdf) for more details about me.
 
 <br/>
 
@@ -67,6 +67,7 @@ I am Gaurav V an inquisitive learner and a budding developer. My areas of intere
 <p>
 <img src="./Assets/vue.svg" width="30px" style="margin-right:0.5rem">
 <img src="./Assets/react.svg" width="30px" style="margin-right:0.5rem">
+<img src="./Assets/angularjs-original.svg" width="30px" style="margin-right:0.5rem">
 <img src="./Assets/flask.svg" width="70px" style="margin-right:0.5rem; background: white">
 </p>
 
@@ -99,6 +100,7 @@ I am Gaurav V an inquisitive learner and a budding developer. My areas of intere
 
 <p>
 <img src="./Assets/github.svg" width="38px" style="margin-right:0.5rem">
+<img src="./Assets/bitbucket-original-wordmark.svg" width="38px" style="margin-right:0.5rem">
 <img src="./Assets/git.svg" width="35px" style="margin-right:0.5rem">
 </p>
 
